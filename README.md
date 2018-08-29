@@ -1,1 +1,1 @@
-https://github.com/Xatan1369/formules
+Программа для расчета формул kwp2000
